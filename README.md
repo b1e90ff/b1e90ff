@@ -2,9 +2,8 @@ Hey There![](https://user-images.githubusercontent.com/18350557/176309783-078594
 ==================================================================================================================================
 
 ----------------------------------------------------
-I'm Niklas Tat a Backend Developer, Web Developer, and DevOps Engineer with the focus in Java. Since my 13th birthday, I'm interested in developing and I'm always trying to improve my skills. It all started with developing Minecraft plugins, TeamSpeak bots, and websites. It always fascinates me to see what you can do and encourages me to continue despite sometimes hours of searching for errors. I have been working for nearly 7 Years as a Freelancer in this field and start also new projects as a hobby to gain new experience and improve myself.
-* 🌍  I'm based in Bern, Switzerland
-* 🖥️  See my portfolio at [You want to see something ?](https://tat.systems)
+
+* 🌍  I'm based in Switzerland
 * ✉️  You can contact me at [niklas.tat@icloud.com](mailto:niklas.tat@icloud.com)
 * 🤝  I'm open to collaborating on new or existing interesting Projects as a Developer
 
