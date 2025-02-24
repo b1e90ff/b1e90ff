@@ -1,5 +1,6 @@
-* I know something funnier than 24... 25!
-[!(https://awesome-github-stats.azurewebsites.net/user-stats/b1e90ff?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+* I know something funnier than 24... 25
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/b1e90ff?cardType=level-alternate&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <img src="https://raw.githubusercontent.com/b1e90ff/b1e90ff/output/snake.svg" alt="Snake animation" />
 
